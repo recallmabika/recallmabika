@@ -46,7 +46,7 @@ Security-focused full-stack authentication system with two-factor verification, 
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/recallmabika)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=for-the-badge)](https://rtmabika.zitrac.co.zw)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=for-the-badge)](https://rmabika.zitrac.co.zw)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:recallmabika@gmail.com)
 
 ### 📊 GitHub Statistics
